@@ -1,0 +1,45 @@
+.authentication-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.authentication-page .div-2 {
+  background-color: #ffffff;
+  height: 874px;
+  position: relative;
+  width: 402px;
+}
+
+.authentication-page .button-instance {
+  border-radius: 152.01px !important;
+  gap: 12.16px !important;
+  height: 62px !important;
+  left: 126px !important;
+  position: absolute !important;
+  top: 406px !important;
+}
+
+.authentication-page .design-component-instance-node {
+  gap: 12.16px !important;
+  padding: 15.2px 36.48px !important;
+}
+
+.authentication-page .button-2 {
+  font-family: "Roboto", Helvetica !important;
+  font-size: 21.3px !important;
+  font-style: unset !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.15px !important;
+  line-height: 30.4px !important;
+  margin-top: -1.22px !important;
+}
+
+.authentication-page .header-instance {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}

@@ -1,0 +1,24 @@
+.header {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 14px 16px;
+  position: relative;
+  width: 402px;
+}
+
+.header .div {
+  color: #000000;
+  font-family: var(--m3-label-large-font-family);
+  font-size: var(--m3-label-large-font-size);
+  font-style: var(--m3-label-large-font-style);
+  font-weight: var(--m3-label-large-font-weight);
+  letter-spacing: var(--m3-label-large-letter-spacing);
+  line-height: var(--m3-label-large-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
